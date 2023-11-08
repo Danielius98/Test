@@ -1,0 +1,24 @@
+*{
+    margin: 0; /*Обнуление отступов задаваемых браузером*/
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parallax_12{
+    background: url(img/scale_1200-01-01.jpeg) ;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 30vh 0 70vh 0;
+    text-align: center;
+}
+
+.content_12{
+    background-color: black;
+    color: whitesmoke;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center; 
+    padding: 40px;
+}
